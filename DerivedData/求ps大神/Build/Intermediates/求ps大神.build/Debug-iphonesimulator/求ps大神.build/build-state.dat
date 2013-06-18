@@ -1,0 +1,726 @@
+T求ps大神
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/Info.plist 求ps大神/求ps大神-Info.plist
+cProcessPCH /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/PrecompiledHeaders/求ps大神-Prefix-esethnojljmidphdtkiwenclavde/求ps大神-Prefix.pch.pth 求ps大神/求ps大神-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/Objects-normal/i386/AppDelegate.o /Users/wangweixiong/iphone-app/求ps大神/求ps大神/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/Objects-normal/i386/main.o /Users/wangweixiong/iphone-app/求ps大神/求ps大神/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/求ps大神 normal i386
+cGenerateDSYMFile /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app.dSYM /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/求ps大神
+cCpResource 求ps大神/HTML/main.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/main.html
+cCopyStringsFile /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/en.lproj/InfoPlist.strings 求ps大神/en.lproj/InfoPlist.strings
+cCpResource /Library/Frameworks/NimbleKit/NKit.js DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/NKit.js
+cCpResource 57.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/57.png
+cCpResource Default.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/Default.png
+cCpResource 求ps大神/HTML/jqmobile/demotivation.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/demotivation.css
+cCpResource Default-568h@2x.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/Default-568h@2x.png
+cCpResource 求ps大神/HTML/jqmobile/demotivation.min.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/demotivation.min.css
+cCpResource 求ps大神/HTML/jqmobile/images/ajax-loader.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/ajax-loader.png
+cCpResource 求ps大神/HTML/jqmobile/images/icons-18-black.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-18-black.png
+cCpResource 求ps大神/HTML/jqmobile/images/ajax-loader.gif DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/ajax-loader.gif
+cCpResource 求ps大神/HTML/jqmobile/images/icons-18-white.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-18-white.png
+cCpResource 求ps大神/HTML/jqmobile/images/icons-36-black.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-36-black.png
+cCpResource 求ps大神/HTML/jqmobile/jquery.mobile-1.1.0.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile-1.1.0.css
+cCpResource 求ps大神/HTML/jqmobile/images/icons-36-white.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-36-white.png
+cCpResource 求ps大神/HTML/jqmobile/jquery.mobile-1.1.0.min.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile-1.1.0.min.css
+cCpResource 求ps大神/HTML/jqmobile/jquery.mobile.structure-1.1.0.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.structure-1.1.0.css
+cCpResource 求ps大神/HTML/jqmobile/jquery.mobile.theme-1.1.0.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.theme-1.1.0.css
+cCpResource 求ps大神/HTML/jqmobile/jquery.mobile.structure-1.1.0.min.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.structure-1.1.0.min.css
+cCpResource 求ps大神/HTML/jqmobile/jquery.mobile.theme-1.1.0.min.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.theme-1.1.0.min.css
+cCpResource 求ps大神/HTML/profile.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/profile.html
+cCpResource 求ps大神/psgod.sqlite DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/psgod.sqlite
+cCpResource 求ps大神/HTML/camera.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/camera.html
+cCpResource 求ps大神/HTML/rank.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/rank.html
+cCpResource 求ps大神/HTML/update.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/update.html
+cTouch /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c00000000517F33F50000000000000110
+t1367290869
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000511530E100000000000015F7
+t1360343265
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000511530E40000000000000E8D
+t1360343268
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c00000000511530F20000000000001B73
+t1360343282
+s7027
+
+N/Library/Frameworks/NimbleKit/NKBridge.h
+c000000004F15EC6200000000000001CF
+t1326836834
+s463
+
+N/Library/Frameworks/NimbleKit/NKit.js
+c0000000051B94E14000000000000C2DD
+t1371098644
+s49885
+
+N/Library/Frameworks/NimbleKit/Nimble.h
+c000000004F15EC620000000000000149
+t1326836834
+s329
+
+N/Users/wangweixiong/iphone-app/求ps大神/57.png
+c0000000051B572420000000000001AE7
+t1370845762
+s6887
+
+N/Users/wangweixiong/iphone-app/求ps大神/Default-568h@2x.png
+c0000000050D2E57400000000000048A2
+t1355998580
+s18594
+
+N/Users/wangweixiong/iphone-app/求ps大神/Default.png
+c0000000050D2C45A00000000000B8D82
+t1355990106
+s757122
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/PrecompiledHeaders/求ps大神-Prefix-esethnojljmidphdtkiwenclavde/求ps大神-Prefix.pch.pth
+t1371188557
+s4666076
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/Objects-normal/i386/AppDelegate.o
+t1371188557
+s89260
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/Objects-normal/i386/main.o
+t1371188557
+s4068
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/Objects-normal/i386/求ps大神.LinkFileList
+c0000000051BAAD4D000000000000015F
+t1371188557
+s351
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app
+t1371484034
+s1020
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app.dSYM
+t1371188558
+s102
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/57.png
+t1371188558
+s6887
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/Default-568h@2x.png
+t1371188558
+s18594
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/Default.png
+t1371188558
+s757122
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/Info.plist
+t1371188557
+s986
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/NKit.js
+t1371188558
+s49885
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/PkgInfo
+t1371188557
+s8
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/ajax-loader.gif
+t1371188558
+s7825
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/ajax-loader.png
+t1371188558
+s340
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/camera.html
+t1371482926
+s2417
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/demotivation.css
+t1371188558
+s24033
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/demotivation.min.css
+t1371188558
+s13354
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/en.lproj/InfoPlist.strings
+t1371188558
+s42
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-18-black.png
+t1371188558
+s1767
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-18-white.png
+t1371188558
+s1806
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-36-black.png
+t1371188558
+s3611
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-36-white.png
+t1371188558
+s3648
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile-1.1.0.css
+t1371188558
+s96670
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile-1.1.0.min.css
+t1371188558
+s60702
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.structure-1.1.0.css
+t1371188558
+s41645
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.structure-1.1.0.min.css
+t1371188558
+s36429
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.theme-1.1.0.css
+t1371188558
+s52007
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.theme-1.1.0.min.css
+t1371188558
+s24380
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/main.html
+t1371480366
+s1374
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/profile.html
+t1371484034
+s2529
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/psgod.sqlite
+t1371188558
+s18432
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/rank.html
+t1371189688
+s615
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/update.html
+t1371189688
+s407
+
+N/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/求ps大神
+t1371188558
+s626272
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/AppDelegate.h
+c0000000051B574490000000000000114
+t1370846281
+s276
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/AppDelegate.m
+c0000000051B8A0ED0000000000000A83
+t1371054317
+s2691
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/camera.html
+c0000000051BF25010000000000000971
+t1371481345
+s2417
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/demotivation.css
+c00000000508531220000000000005DE1
+t1350906146
+s24033
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/demotivation.min.css
+c0000000050853122000000000000342A
+t1350906146
+s13354
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/images/ajax-loader.gif
+c00000000508531220000000000001E91
+t1350906146
+s7825
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/images/ajax-loader.png
+c00000000508531220000000000000154
+t1350906146
+s340
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/images/icons-18-black.png
+c000000005085312200000000000006E7
+t1350906146
+s1767
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/images/icons-18-white.png
+c0000000050853122000000000000070E
+t1350906146
+s1806
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/images/icons-36-black.png
+c00000000508531220000000000000E1B
+t1350906146
+s3611
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/images/icons-36-white.png
+c00000000508531220000000000000E40
+t1350906146
+s3648
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/jquery.mobile-1.1.0.css
+c0000000050853122000000000001799E
+t1350906146
+s96670
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/jquery.mobile-1.1.0.min.css
+c0000000050853122000000000000ED1E
+t1350906146
+s60702
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/jquery.mobile.structure-1.1.0.css
+c0000000050853122000000000000A2AD
+t1350906146
+s41645
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/jquery.mobile.structure-1.1.0.min.css
+c00000000508531220000000000008E4D
+t1350906146
+s36429
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/jquery.mobile.theme-1.1.0.css
+c0000000050853122000000000000CB27
+t1350906146
+s52007
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/jquery.mobile.theme-1.1.0.min.css
+c00000000508531220000000000005F3C
+t1350906146
+s24380
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/main.html
+c0000000051BF1E09000000000000055E
+t1371479561
+s1374
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/profile.html
+c0000000051BF31220000000000000C52
+t1371484450
+s3154
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/rank.html
+c0000000051B611CA0000000000000267
+t1370886602
+s615
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/update.html
+c0000000051B58C480000000000000197
+t1370852424
+s407
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/camera.html
+c0000000051B8A63F0000000000000585
+t1371055679
+s1413
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/en.lproj/InfoPlist.strings
+c0000000051B57449000000000000002D
+t1370846281
+s45
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/main.m
+c0000000051B57449000000000000019B
+t1370846281
+s411
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/profile.html
+c0000000051BAAA850000000000001056
+t1371187845
+s4182
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/psgod.sqlite
+c0000000051B9448E0000000000004800
+t1371096206
+s18432
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/rank.html
+c0000000051B611CA0000000000000267
+t1370886602
+s615
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/update.html
+c0000000051B58C480000000000000197
+t1370852424
+s407
+
+N/Users/wangweixiong/iphone-app/求ps大神/求ps大神/求ps大神-Prefix.pch
+c0000000051B574490000000000000145
+t1370846281
+s325
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N求ps大神/求ps大神-Info.plist
+c0000000051B8A0EE0000000000000675
+t1371054318
+s1653
+
+CBuild AST from /Users/wangweixiong/iphone-app/求ps大神/求ps大神/AppDelegate.m
+r0
+
+CBuild AST from /Users/wangweixiong/iphone-app/求ps大神/求ps大神/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies0307f0b4686fb741^de39f0b4686fb741^---0#1#0#--18"Check dependencies36"A3F8AB60-9760-42D6-9598-0B63BF5262DD-
+
+CCompileC DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/Objects-normal/i386/AppDelegate.o /Users/wangweixiong/iphone-app/求ps大神/求ps大神/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392881357.523838
+e392881357.633813
+r1
+xCompileC
+xDerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/Objects-normal/i386/AppDelegate.o
+x/Users/wangweixiong/iphone-app/求ps大神/求ps大神/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/wangweixiong/iphone-app/求ps大神/求ps大神/AppDelegate.m3e3d86cde46ab741^4e41a2cde46ab741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/AppDelegate.m0000000000000000^4081"CompileC DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/Objects-normal/i386/AppDelegate.o 求ps大神/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangweixiong/iphone-app/求ps大神    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/求ps大神-generated-files.hmap -I/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/求ps大神-own-target-headers.hmap -I/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/求ps大神-all-target-headers.hmap -iquote /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/求ps大神-project-headers.hmap -iquote/Library/Frameworks/NimbleKit -I/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/DerivedSources/i386 -I/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/DerivedSources -F/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator -include /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/PrecompiledHeaders/求ps大神-Prefix-esethnojljmidphdtkiwenclavde/求ps大神-Prefix.pch -MMD -MT dependencies -MF /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/Objects-normal/i386/AppDelegate.dia -c /Users/wangweixiong/iphone-app/求ps大神/求ps大神/AppDelegate.m -o /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/Objects-normal/i386/AppDelegate.o36"520FD1F3-7F51-4185-8523-5B63CA71F1BB-
+
+CCompileC DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/Objects-normal/i386/main.o /Users/wangweixiong/iphone-app/求ps大神/求ps大神/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392881357.524002
+e392881357.617052
+r1
+xCompileC
+xDerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/Objects-normal/i386/main.o
+x/Users/wangweixiong/iphone-app/求ps大神/求ps大神/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/wangweixiong/iphone-app/求ps大神/求ps大神/main.m294286cde46ab741^c4969ecde46ab741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/main.m0000000000000000^4039"CompileC DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/Objects-normal/i386/main.o 求ps大神/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangweixiong/iphone-app/求ps大神    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/求ps大神-generated-files.hmap -I/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/求ps大神-own-target-headers.hmap -I/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/求ps大神-all-target-headers.hmap -iquote /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/求ps大神-project-headers.hmap -iquote/Library/Frameworks/NimbleKit -I/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/DerivedSources/i386 -I/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/DerivedSources -F/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator -include /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/PrecompiledHeaders/求ps大神-Prefix-esethnojljmidphdtkiwenclavde/求ps大神-Prefix.pch -MMD -MT dependencies -MF /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/Objects-normal/i386/main.dia -c /Users/wangweixiong/iphone-app/求ps大神/求ps大神/main.m -o /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/Objects-normal/i386/main.o36"F477B36A-3DBD-48FC-A34B-6A308E9482E9-
+
+CCopyStringsFile /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/en.lproj/InfoPlist.strings 求ps大神/en.lproj/InfoPlist.strings
+s392881358.794516
+e392881358.866268
+r1
+xCopyStringsFile
+x/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/en.lproj/InfoPlist.strings
+x求ps大神/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy 求ps大神/en.lproj/InfoPlist.strings9679cbcee46ab741^bdc3ddcee46ab741^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/en.lproj/InfoPlist.strings0000000000000000^665"CopyStringsFile DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/en.lproj/InfoPlist.strings 求ps大神/en.lproj/InfoPlist.strings    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/en.lproj -- 求ps大神/en.lproj/InfoPlist.strings36"ABD4B0F7-4164-422A-BD5B-2FD6ED427910-
+
+CCpResource /Library/Frameworks/NimbleKit/NKit.js DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/NKit.js
+s392881358.794511
+e392881358.865795
+r1
+xCpResource
+x/Library/Frameworks/NimbleKit/NKit.js
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/NKit.js
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/NKit.js4b77cbcee46ab741^8ba4ddcee46ab741^---0#0#0#-19%DVTDocumentLocation2@197"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/NKit.js000000000080d041^649"CpResource /Library/Frameworks/NimbleKit/NKit.js DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/NKit.js    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Library/Frameworks/NimbleKit/NKit.js /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"113D2F4E-8D45-45A9-9D0A-F1C3D79C0D05-
+
+CCpResource 57.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/57.png
+s392881358.794954
+e392881358.799788
+r1
+xCpResource
+x57.png
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/57.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/57.png268fcbcee46ab741^0abfcccee46ab741^---0#0#0#-19%DVTDocumentLocation2@196"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/57.png000000000080d041^629"CpResource 57.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/57.png    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/57.png /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"D67D37C2-C364-4584-90ED-8AECC0570416-
+
+CCpResource Default-568h@2x.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/Default-568h@2x.png
+s392881358.797791
+e392881358.800911
+r1
+xCpResource
+xDefault-568h@2x.png
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/Default-568h@2x.png2c47cccee46ab741^b308cdcee46ab741^---0#0#0#-19%DVTDocumentLocation2@209"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/Default-568h@2x.png000000000080d041^674"CpResource "Default-568h@2x.png" "DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/Default-568h@2x.png"    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/wangweixiong/iphone-app/求ps大神/Default-568h@2x.png" /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"B67C8EDE-F014-4B2F-B2E0-33AE16E2BE72-
+
+CCpResource Default.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/Default.png
+s392881358.800915
+e392881358.871869
+r1
+xCpResource
+xDefault.png
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/Default.pngb517cdcee46ab741^1233dfcee46ab741^---0#0#0#-19%DVTDocumentLocation2@201"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/Default.png000000000080d041^644"CpResource Default.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/Default.png    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/Default.png /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"5FB72300-EC86-4128-83B8-5358368F681E-
+
+CCpResource 求ps大神/HTML/camera.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/camera.html
+s393175726.285667
+e393175726.287716
+r1
+xCpResource
+x求ps大神/HTML/camera.html
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/camera.html
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/camera.htmldf3449ae626fb741^2bfc49ae626fb741^---0#0#0#-19%DVTDocumentLocation2@201"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/camera.html0000000000000000^678"CpResource 求ps大神/HTML/camera.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/camera.html    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/camera.html /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"8A9FA0DA-2094-470E-89CE-BF2CFB2F22D0-
+
+CCpResource 求ps大神/HTML/jqmobile/demotivation.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/demotivation.css
+s392881358.814905
+e392881358.848894
+r1
+xCpResource
+x求ps大神/HTML/jqmobile/demotivation.css
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/demotivation.css
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/demotivation.cssd2a8d0cee46ab741^5051d9cee46ab741^---0#0#0#-19%DVTDocumentLocation2@206"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/demotivation.css000000000080d041^711"CpResource 求ps大神/HTML/jqmobile/demotivation.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/demotivation.css    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/demotivation.css /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"EF38D657-2BA2-420C-BD0F-1746D7AF762E-
+
+CCpResource 求ps大神/HTML/jqmobile/demotivation.min.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/demotivation.min.css
+s392881358.850311
+e392881358.852520
+r1
+xCpResource
+x求ps大神/HTML/jqmobile/demotivation.min.css
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/demotivation.min.css
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/demotivation.min.css1bbed9cee46ab741^d13edacee46ab741^---0#0#0#-19%DVTDocumentLocation2@210"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/demotivation.min.css000000000080d041^723"CpResource 求ps大神/HTML/jqmobile/demotivation.min.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/demotivation.min.css    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/demotivation.min.css /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"7D2A05B6-C0DD-4BCC-905C-9A6CC7A82226-
+
+CCpResource 求ps大神/HTML/jqmobile/images/ajax-loader.gif DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/ajax-loader.gif
+s392881358.853725
+e392881358.856105
+r1
+xCpResource
+x求ps大神/HTML/jqmobile/images/ajax-loader.gif
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/ajax-loader.gif
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/ajax-loader.gifd49edacee46ab741^e529dbcee46ab741^---0#0#0#-19%DVTDocumentLocation2@205"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/ajax-loader.gif000000000080d041^722"CpResource 求ps大神/HTML/jqmobile/images/ajax-loader.gif DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/ajax-loader.gif    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/images/ajax-loader.gif /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"AE7F27E7-6A65-4DDF-82B8-94BF40CF1440-
+
+CCpResource 求ps大神/HTML/jqmobile/images/ajax-loader.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/ajax-loader.png
+s392881358.857475
+e392881358.859666
+r1
+xCpResource
+x求ps大神/HTML/jqmobile/images/ajax-loader.png
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/ajax-loader.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/ajax-loader.png3e95dbcee46ab741^3413dccee46ab741^---0#0#0#-19%DVTDocumentLocation2@205"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/ajax-loader.png000000000080d041^722"CpResource 求ps大神/HTML/jqmobile/images/ajax-loader.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/ajax-loader.png    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/images/ajax-loader.png /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"E359A118-8F65-4764-8E5F-BA3B1B0D7788-
+
+CCpResource 求ps大神/HTML/jqmobile/images/icons-18-black.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-18-black.png
+s392881358.860903
+e392881358.868505
+r1
+xCpResource
+x求ps大神/HTML/jqmobile/images/icons-18-black.png
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-18-black.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-18-black.png056fdccee46ab741^6956decee46ab741^---0#0#0#-19%DVTDocumentLocation2@208"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/icons-18-black.png000000000080d041^731"CpResource 求ps大神/HTML/jqmobile/images/icons-18-black.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-18-black.png    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/images/icons-18-black.png /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"DA891735-75A2-4EAD-BE41-B7A69EDCB4A6-
+
+CCpResource 求ps大神/HTML/jqmobile/images/icons-18-white.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-18-white.png
+s392881358.867058
+e392881358.870113
+r1
+xCpResource
+x求ps大神/HTML/jqmobile/images/icons-18-white.png
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-18-white.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-18-white.png4f03decee46ab741^a5bcdecee46ab741^---0#0#0#-19%DVTDocumentLocation2@208"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/icons-18-white.png000000000080d041^731"CpResource 求ps大神/HTML/jqmobile/images/icons-18-white.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-18-white.png    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/images/icons-18-white.png /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"3B1B1CEF-79C5-4295-B3EA-B5C54BEC8D69-
+
+CCpResource 求ps大神/HTML/jqmobile/images/icons-36-black.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-36-black.png
+s392881358.867055
+e392881358.871235
+r1
+xCpResource
+x求ps大神/HTML/jqmobile/images/icons-36-black.png
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-36-black.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-36-black.png1d03decee46ab741^3d0adfcee46ab741^---0#0#0#-19%DVTDocumentLocation2@208"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/icons-36-black.png000000000080d041^731"CpResource 求ps大神/HTML/jqmobile/images/icons-36-black.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-36-black.png    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/images/icons-36-black.png /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"C530F0DD-8104-4B15-B01A-799FBAC86E12-
+
+CCpResource 求ps大神/HTML/jqmobile/images/icons-36-white.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-36-white.png
+s392881358.869750
+e392881358.872764
+r1
+xCpResource
+x求ps大神/HTML/jqmobile/images/icons-36-white.png
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-36-white.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-36-white.png35b7decee46ab741^766ddfcee46ab741^---0#0#0#-19%DVTDocumentLocation2@208"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/icons-36-white.png000000000080d041^731"CpResource 求ps大神/HTML/jqmobile/images/icons-36-white.png DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/icons-36-white.png    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/images/icons-36-white.png /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"83B0E299-2C99-4308-9639-1D695FAD34C2-
+
+CCpResource 求ps大神/HTML/jqmobile/jquery.mobile-1.1.0.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile-1.1.0.css
+s392881358.871438
+e392881358.874373
+r1
+xCpResource
+x求ps大神/HTML/jqmobile/jquery.mobile-1.1.0.css
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile-1.1.0.css
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile-1.1.0.css0726dfcee46ab741^6fd7dfcee46ab741^---0#0#0#-19%DVTDocumentLocation2@213"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/jquery.mobile-1.1.0.css000000000080d041^732"CpResource 求ps大神/HTML/jqmobile/jquery.mobile-1.1.0.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile-1.1.0.css    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/jquery.mobile-1.1.0.css /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"2D0815FB-2337-46FF-BAFE-EB661194EBCF-
+
+CCpResource 求ps大神/HTML/jqmobile/jquery.mobile-1.1.0.min.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile-1.1.0.min.css
+s392881358.872395
+e392881358.900467
+r1
+xCpResource
+x求ps大神/HTML/jqmobile/jquery.mobile-1.1.0.min.css
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile-1.1.0.min.css
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile-1.1.0.min.cssc45fdfcee46ab741^ad84e6cee46ab741^---0#0#0#-19%DVTDocumentLocation2@217"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/jquery.mobile-1.1.0.min.css000000000080d041^744"CpResource 求ps大神/HTML/jqmobile/jquery.mobile-1.1.0.min.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile-1.1.0.min.css    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/jquery.mobile-1.1.0.min.css /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"8AD19614-0941-4DC8-A428-68561F713D8E-
+
+CCpResource 求ps大神/HTML/jqmobile/jquery.mobile.structure-1.1.0.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.structure-1.1.0.css
+s392881358.872389
+e392881358.901675
+r1
+xCpResource
+x求ps大神/HTML/jqmobile/jquery.mobile.structure-1.1.0.css
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.structure-1.1.0.css
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.structure-1.1.0.css3960dfcee46ab741^e9d3e6cee46ab741^---0#0#0#-19%DVTDocumentLocation2@223"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/jquery.mobile.structure-1.1.0.css000000000080d041^762"CpResource 求ps大神/HTML/jqmobile/jquery.mobile.structure-1.1.0.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.structure-1.1.0.css    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/jquery.mobile.structure-1.1.0.css /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"BC11F94E-BAA9-4A93-AF70-D3199BED5CC4-
+
+CCpResource 求ps大神/HTML/jqmobile/jquery.mobile.structure-1.1.0.min.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.structure-1.1.0.min.css
+s392881358.874027
+e392881358.901940
+r1
+xCpResource
+x求ps大神/HTML/jqmobile/jquery.mobile.structure-1.1.0.min.css
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.structure-1.1.0.min.css
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.structure-1.1.0.min.css5bd0dfcee46ab741^cde5e6cee46ab741^---0#0#0#-19%DVTDocumentLocation2@227"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/jquery.mobile.structure-1.1.0.min.css000000000080d041^774"CpResource 求ps大神/HTML/jqmobile/jquery.mobile.structure-1.1.0.min.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.structure-1.1.0.min.css    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/jquery.mobile.structure-1.1.0.min.css /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"A99CE487-BD3A-440F-8AFD-75105B10971D-
+
+CCpResource 求ps大神/HTML/jqmobile/jquery.mobile.theme-1.1.0.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.theme-1.1.0.css
+s392881358.875463
+e392881358.903557
+r1
+xCpResource
+x求ps大神/HTML/jqmobile/jquery.mobile.theme-1.1.0.css
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.theme-1.1.0.css
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.theme-1.1.0.cssfa27e0cee46ab741^b150e7cee46ab741^---0#0#0#-19%DVTDocumentLocation2@219"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/jquery.mobile.theme-1.1.0.css000000000080d041^750"CpResource 求ps大神/HTML/jqmobile/jquery.mobile.theme-1.1.0.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.theme-1.1.0.css    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/jquery.mobile.theme-1.1.0.css /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"1C16B289-BE8E-4C5A-91AE-DB46D82864F2-
+
+CCpResource 求ps大神/HTML/jqmobile/jquery.mobile.theme-1.1.0.min.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.theme-1.1.0.min.css
+s392881358.901679
+e392881358.904203
+r1
+xCpResource
+x求ps大神/HTML/jqmobile/jquery.mobile.theme-1.1.0.min.css
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.theme-1.1.0.min.css
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.theme-1.1.0.min.css29e8e6cee46ab741^b779e7cee46ab741^---0#0#0#-19%DVTDocumentLocation2@223"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/jquery.mobile.theme-1.1.0.min.css000000000080d041^762"CpResource 求ps大神/HTML/jqmobile/jquery.mobile.theme-1.1.0.min.css DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/jquery.mobile.theme-1.1.0.min.css    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/jqmobile/jquery.mobile.theme-1.1.0.min.css /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"2AFCB859-8105-4669-AE0E-965F77E5D2F1-
+
+CCpResource 求ps大神/HTML/main.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/main.html
+s393173166.167326
+e393173166.181329
+r1
+xCpResource
+x求ps大神/HTML/main.html
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/main.html
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/main.html14e92aae586fb741^0e6b2eae586fb741^---0#0#0#-19%DVTDocumentLocation2@199"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/main.html0000000000000000^672"CpResource 求ps大神/HTML/main.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/main.html    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/main.html /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"910C4B71-A24A-47CB-A7EF-0817D1F91EE6-
+
+CCpResource 求ps大神/HTML/profile.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/profile.html
+s393177268.987441
+e393177268.989368
+r1
+xCpResource
+x求ps大神/HTML/profile.html
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/profile.html
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/profile.html73d9fcb4686fb741^be89fdb4686fb741^---0#0#0#-19%DVTDocumentLocation2@202"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/profile.html0000000000000000^681"CpResource 求ps大神/HTML/profile.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/profile.html    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/profile.html /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"EC69E2E7-E0D1-4E48-9C80-B3565AE7ADCF-
+
+CCpResource 求ps大神/HTML/rank.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/rank.html
+s392882488.574399
+e392882488.577248
+r1
+xCpResource
+x求ps大神/HTML/rank.html
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/rank.html
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/rank.htmlf41a9338e96ab741^86c69338e96ab741^---0#0#0#-19%DVTDocumentLocation2@199"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/rank.html0000000000000000^672"CpResource 求ps大神/HTML/rank.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/rank.html    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/rank.html /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"0AD2B096-1270-444D-98C4-C7C1FCA8AC9E-
+
+CCpResource 求ps大神/HTML/update.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/update.html
+s392882488.574389
+e392882488.576102
+r1
+xCpResource
+x求ps大神/HTML/update.html
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/update.html
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/update.html2f199338e96ab741^6c7b9338e96ab741^---0#0#0#-19%DVTDocumentLocation2@201"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/update.html0000000000000000^678"CpResource 求ps大神/HTML/update.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/update.html    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/HTML/update.html /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"FD3A8D63-193A-4AC6-A175-E5396A1A75E8-
+
+CCpResource 求ps大神/camera.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/camera.html
+s392881358.811729
+e392881358.813750
+r1
+xCpResource
+x求ps大神/camera.html
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/camera.html
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/camera.html15e0cfcee46ab741^3f52d0cee46ab741^---0#0#0#-19%DVTDocumentLocation2@201"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/camera.html000000000080d041^668"CpResource 求ps大神/camera.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/camera.html    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/camera.html /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"1966DDC7-11F9-454E-8F22-8DB87A11BAB7-
+
+CCpResource 求ps大神/profile.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/profile.html
+s392881358.808221
+e392881358.810546
+r1
+xCpResource
+x求ps大神/profile.html
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/profile.html
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/profile.htmlb6f2cecee46ab741^e17fcfcee46ab741^---0#0#0#-19%DVTDocumentLocation2@202"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/profile.html000000000080d041^671"CpResource 求ps大神/profile.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/profile.html    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/profile.html /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"77F65176-151B-4B37-9076-37A093AB677A-
+
+CCpResource 求ps大神/psgod.sqlite DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/psgod.sqlite
+s392881358.902913
+e392881358.926477
+r1
+xCpResource
+x求ps大神/psgod.sqlite
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/psgod.sqlite
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/psgod.sqlite342fe7cee46ab741^fd2dedcee46ab741^---0#0#0#-19%DVTDocumentLocation2@202"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/psgod.sqlite000000000080d041^671"CpResource 求ps大神/psgod.sqlite DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/psgod.sqlite    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/psgod.sqlite /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"8878C6D0-7F0E-4A2C-9066-62DF3E0DEBF5-
+
+CCpResource 求ps大神/rank.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/rank.html
+s392881358.802058
+e392881358.803868
+r1
+xCpResource
+x求ps大神/rank.html
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/rank.html
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/rank.htmle65dcdcee46ab741^2acacdcee46ab741^---0#0#0#-19%DVTDocumentLocation2@199"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/rank.html000000000080d041^662"CpResource 求ps大神/rank.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/rank.html    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/rank.html /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"4CFA0BAD-7B0B-4ED0-8FA4-F8DA5B393ACA-
+
+CCpResource 求ps大神/update.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/update.html
+s392881358.805127
+e392881358.807058
+r1
+xCpResource
+x求ps大神/update.html
+xDerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/update.html
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/update.html6329cecee46ab741^7c9bcecee46ab741^---0#0#0#-19%DVTDocumentLocation2@201"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app/update.html000000000080d041^668"CpResource 求ps大神/update.html DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/update.html    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wangweixiong/iphone-app/求ps大神/求ps大神/update.html /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"061127D9-95FD-437A-A21F-06B5B906B950-
+
+CGenerateDSYMFile /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app.dSYM /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/求ps大神
+s392881358.680122
+e392881358.786440
+r1
+xGenerateDSYMFile
+x/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app.dSYM
+x/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/求ps大神
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Generate /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app.dSYM8830aecee46ab741^a568c9cee46ab741^---0#0#0#-19%DVTDocumentLocation2@194"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/DerivedData/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/Build/Products/Debug-iphonesimulator/%E6%B1%82ps%E5%A4%A7%E7%A5%9E.app.dSYM000000000080d041^793"GenerateDSYMFile DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app.dSYM DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/求ps大神    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/求ps大神 -o /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app.dSYM36"67B8C31D-A07F-46B2-93E0-97E4F853AF10-
+
+CLd /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/求ps大神 normal i386
+s392881357.640266
+e392881358.672407
+r1
+xLd
+x/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/求ps大神
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Link /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/求ps大神ea04a4cde46ab741^46b5b8cee46ab741^---0#0#0#--1780"Ld DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/求ps大神 normal i386    cd /Users/wangweixiong/iphone-app/求ps大神    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator -L/Library/Frameworks -F/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator -filelist /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/Objects-normal/i386/求ps大神.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -l sqlite3 -all_load -weak_framework UIKit -weak_framework Foundation -weak_framework CoreGraphics -weak_framework MessageUI -weak_framework iAd -weak_framework CoreMotion -weak_framework StoreKit -weak_framework MapKit -weak_framework MediaPlayer -weak_framework AddressBook -weak_framework AddressBookUI -weak_framework CoreLocation -weak_framework AVFoundation -weak_framework SystemConfiguration -weak_framework AudioToolbox -weak_framework CFNetwork -lNimbleKit -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=4.3 -o /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/求ps大神36"8105C104-217C-43B4-814A-B26CE6613364-
+
+CProcessInfoPlistFile /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/Info.plist 求ps大神/求ps大神-Info.plist
+s392881357.043840
+e392881357.046641
+r1
+xProcessInfoPlistFile
+x/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/Info.plist
+x求ps大神/求ps大神-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process 求ps大神/求ps大神-Info.plist6f480bcde46ab741^15030ccde46ab741^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/%E6%B1%82ps%E5%A4%A7%E7%A5%9E-Info.plist0000000000000000^789"ProcessInfoPlistFile DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/Info.plist 求ps大神/求ps大神-Info.plist    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility 求ps大神/求ps大神-Info.plist -genpkginfo /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app/Info.plist36"F6BCAEC4-D3F0-4346-86B3-979E503D7D8C-
+
+CProcessPCH /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/PrecompiledHeaders/求ps大神-Prefix-esethnojljmidphdtkiwenclavde/求ps大神-Prefix.pch.pth 求ps大神/求ps大神-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392881357.054963
+e392881357.517153
+r1
+xProcessPCH
+x/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/PrecompiledHeaders/求ps大神-Prefix-esethnojljmidphdtkiwenclavde/求ps大神-Prefix.pch.pth
+x求ps大神/求ps大神-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile 求ps大神/求ps大神-Prefix.pch7b2f0ecde46ab741^ae6384cde46ab741^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/wangweixiong/iphone-app/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/%E6%B1%82ps%E5%A4%A7%E7%A5%9E/%E6%B1%82ps%E5%A4%A7%E7%A5%9E-Prefix.pch0000000000000000^3926"ProcessPCH DerivedData/求ps大神/Build/Intermediates/PrecompiledHeaders/求ps大神-Prefix-esethnojljmidphdtkiwenclavde/求ps大神-Prefix.pch.pth 求ps大神/求ps大神-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangweixiong/iphone-app/求ps大神    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/求ps大神-generated-files.hmap -I/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/求ps大神-own-target-headers.hmap -I/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/求ps大神-all-target-headers.hmap -iquote /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/求ps大神-project-headers.hmap -iquote/Library/Frameworks/NimbleKit -I/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/DerivedSources/i386 -I/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/求ps大神.build/Debug-iphonesimulator/求ps大神.build/DerivedSources -F/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/PrecompiledHeaders/求ps大神-Prefix-esethnojljmidphdtkiwenclavde/求ps大神-Prefix.pch.dia -c /Users/wangweixiong/iphone-app/求ps大神/求ps大神/求ps大神-Prefix.pch -o /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/PrecompiledHeaders/求ps大神-Prefix-esethnojljmidphdtkiwenclavde/求ps大神-Prefix.pch.pth -MMD -MT dependencies -MF /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Intermediates/PrecompiledHeaders/求ps大神-Prefix-esethnojljmidphdtkiwenclavde/求ps大神-Prefix.pch.d36"4A363F12-212C-4346-9C17-4683345D1621-
+
+CProcessPCH /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Index/PrecompiledHeaders/求ps大神-Prefix-ggzhkbwwcgvgqfgnshuhszelyhtu_ast/求ps大神-Prefix.pch.pth 求ps大神/求ps大神-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app
+s393177268.997417
+e393177269.032096
+r1
+xTouch
+x/Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Touch /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.appa662ffb4686fb741^2e3708b5686fb741^---0#0#0#--470"Touch DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app    cd /Users/wangweixiong/iphone-app/求ps大神    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/wangweixiong/iphone-app/求ps大神/DerivedData/求ps大神/Build/Products/Debug-iphonesimulator/求ps大神.app36"B83DDF51-2414-4104-8E00-4B877CAA16F8-
+
