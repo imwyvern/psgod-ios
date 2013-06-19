@@ -18,7 +18,7 @@
 		<form id="login"  data-ajax="true">
 			<div data-role="fieldcontain" class="ui-field-contain ui-body ui-br">
                 <label for="name" class="ui-input-text">用户名:</label>
-                <input id="name" name="name" class="ui-input-text ui-body-null ui-corner-all ui-shadow-inset ui-body-c">
+                <input id="username" name="name" class="ui-input-text ui-body-null ui-corner-all ui-shadow-inset ui-body-c">
                     </div>
             
 			<div data-role="fieldcontain" class="ui-field-contain ui-body ui-br">
@@ -29,16 +29,24 @@
                 <label for="name" class="ui-input-text">确认密码:</label>
                 <input type="password" id="password" name="password" class="ui-input-text ui-body-null ui-corner-all ui-shadow-inset ui-body-c">
                     </div>
-				<button data-theme="b" id="register" type="reset" class="ui-btn" >Register</button>
+				<button  id="register" type="reset" class="ui-btn-up-b" >Register</button>
         <script>
             $(function() {
               $("#register").click(function(){
-                                   alert("test");
                                    $.ajax(function(){
-                                            
-                                          
-                                          
-                                          }
+                                          url:'http://localhost/ios/register',
+                                          type:'post',
+                                          dateType:'json',
+                                          data:{
+                                            username:$("#username").val(),
+                                            password:$("#password").val(),
+                                            },
+                                          success:function(result){
+                                          alert("success");
+                                          },
+                                          error: function(wrong){
+                                          alert("error");
+                                          },
                                    );
                                    
                     }
