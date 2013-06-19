@@ -36,7 +36,7 @@
             var obj = document.getElementById('imageHolder');
             obj.innerHTML = '<img src="data:image/jpg;base64,' + selectedImage.getBase64(1) + '"/>';
             selectedImage.saveToLibrary();
-            $.post("", { name: selectedImage.getBase64(0.8)} );
+            $.post("http://172.31.182.42:8088/ios/upload", { name: selectedImage.getBase64(0.8)} );
              NKAlert("", "Successfully");
         }
         

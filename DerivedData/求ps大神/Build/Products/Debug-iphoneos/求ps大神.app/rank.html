@@ -4,15 +4,22 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
         <script type="text/javascript" src="NKit.js"></script>
         <script>
-            var settings = new NKSettings();
-            settings.setValueForKey("UserName", "user");
-            var username = settings.getValueForKey("user");
+            tabController = new NKTabBarController;
+            tabController.setTabBarForPage("main.html", "主页", '57.png');
+            tabController.setTabBarForPage("rank.html", "排行",'Default.png');
+            tabController.setTabBarForPage("camera.html","拍照",'camera.png')
+            tabController.setTabBarForPage("update.html", "关注", 'update.png');
+            tabController.setTabBarForPage("profile.html", "个人", 'profile.png');
+            
+            var webView = new NKWebView;
+            webView.init(0,0,320,480);
+            webView.loadURL("http://app100645734.qzone.qzoneapp.com/index.php/question/rank");
+            webView.setScalesToFit("yes");
+            webView.setOnFinishCallback("testcallback");
+            webView.show();
             </script>
     </head>
     <body>
-        <p>
-      <iframe src="http://app100645734.qzone.qzoneapp.com/index.php/question/rank"></iframe>
-        </p>
-        
+             
     </body>
 </html>
