@@ -2,7 +2,6 @@
     <head>
         <meta name = "viewport" content = "initial-scale = 1.0, user-scalable = no" />
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-
         <link rel="stylesheet" href="jqmobile/demotivation.min.css" />
         <link rel="stylesheet" href="jqmobile/jquery.mobile.structure-1.1.0.min.css" />
         <script src="jqmobile/jquery-1.7.2.min.js"></script>
@@ -34,10 +33,19 @@
             if (!imageObj)return;
             selectedImage = imageObj;
             var obj = document.getElementById('imageHolder');
-            obj.innerHTML = '<img src="data:image/jpg;base64,' + selectedImage.getBase64(1) + '"/>';
+            obj.innerHTML = '<img width=320px src="data:image/jpg;base64,' + selectedImage.getBase64(1) + '"/>';
             selectedImage.saveToLibrary();
-            $.post("http://172.31.182.42:8088/ios/upload", { name: selectedImage.getBase64(0.8)} );
-             NKAlert("", "Successfully");
+            $.post("http://172.31.203.104:8088/ios/upload",
+                   {
+                   images: selectedImage.getBase64(0.8),
+                   username:"Duckburg"
+                   },
+                   function(data){
+                   alert(data.message);
+                   alert("数据：" + data);
+                   NKAlert("", "Successfully");
+                   });
+           //  NKAlert("", "Successfully");
         }
         
         function imageSelectionSheetButtonPressed(index){
